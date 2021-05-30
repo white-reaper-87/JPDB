@@ -13,3 +13,6 @@ Appropiate alerts are generated.
 -> Supports pluggable and user defined API.
 # Screenshots
 Screenshots are posted as seperate files named: P1, P2, P3, and P4.
+
+# Notes
+Project file is available as index.html
